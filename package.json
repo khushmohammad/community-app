@@ -1,5 +1,5 @@
 {
-  "name": "next-auth-4",
+  "name": "multi-lang",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,17 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@hookform/resolvers": "^2.9.10",
-    "axios": "^1.2.0",
-    "bootstrap": "^5.2.3",
-    "jwt-decode": "^3.1.2",
+    "eslint": "8.28.0",
+    "eslint-config-next": "13.0.5",
     "next": "13.0.5",
-    "next-auth": "^4.17.0",
     "react": "18.2.0",
-    "react-bootstrap": "^2.6.0",
-    "react-dom": "18.2.0",
-    "react-hook-form": "^7.40.0",
-    "react-icons": "^4.7.1",
-    "yup": "^0.32.11"
+    "react-dom": "18.2.0"
   }
 }
