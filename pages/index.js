@@ -25,7 +25,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          {t.welcome} to <a href="https://nextjs.org">Next.js!</a>
+          {t.welcome} to <a href="https://nextjs.org">Next.js! locale</a>
         </h1>
 
         <select
